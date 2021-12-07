@@ -1,0 +1,5 @@
+Курс: https://www.udemy.com/course/spring-framework/learn/lecture/23154148
+
+https://sysout.ru/spring/spring-security/   серия статей по Spring Security
+
+https://javastudy.ru/spring-mvc/security/   как сделать свою страницу логина вместо дефолтной
